@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-6j3i8i.cuansalam.cfd/sitemap.xml
